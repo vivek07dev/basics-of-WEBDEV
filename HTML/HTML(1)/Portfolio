@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+</head>
+<body>
+    <header>
+    <h1>VIVEK PRASAD</h1>
+    <p>Welcome to my portfolio!</p>
+    <img src = "SAURABH.jpeg" alt = "VIVEK PRASAD" width = "200" height = "200">
+    
+    </header>
+    <hr>
+
+    <section>
+    <h2>EDUCATION   </h2>
+    <ul>
+        <li>High School:  62%</li>
+        <li>Intermediate: 56.8%</li>
+        <li>Bachelor's Degree: 7.13 CGPA</li>
+    </section>
+        <hr>
+
+    </ul>
+    <h2>SKILLS</h2> 
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Python</li>
+        <li>GIT&GITHUB</li>
+        <li>AI and ML</li>
+        <hr>
+
+    </ul>
+    <h2>HOBBIES</h2>
+    <ul>
+        <li>Reading Books</li>
+        <li>Playing and Watching Sports</li>
+        <li>Listening to Music</li>
+        <hr>
+    </ul>
+
+    <footer>
+    <h2>CONTACT</h2>
+    <p>Email: <b>prasadvivek343@gmail.com   </b></p>
+    <p>Phone: <b> 7668750156</b></p>
+    <p>LinkedIn: <a "https://www.linkedin.com/in/vivek-prasad-971a26341?utm_source=share_via&utm_content=profile&utm_medium=member_android">Visit My LinkedIn Profile</a></p>
+</footer>
+    <hr>
+</body>
+</html>
